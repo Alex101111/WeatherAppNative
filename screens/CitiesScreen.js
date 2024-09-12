@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, ScrollView } from 'react-native';
 import Weather from '../WeatherApp/components/Weather';
 
-const WEATHER_API_KEY = 'd41e8029c36e07e6a3dc2cff4846118a';
+const WEATHER_API_KEY = '';
 const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const CitiesScreen = () => {
